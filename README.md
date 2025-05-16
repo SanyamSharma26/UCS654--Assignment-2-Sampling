@@ -1,5 +1,5 @@
 
-# Assignment 2 – Sampling and Credit Card Fraud Detection (EDA)
+# Assignment 2 – Sampling and Credit Card Fraud Detection 
 
 **Course:** UCS654 – Data Analytics  
 **Author:** Sanyam Sharma  
